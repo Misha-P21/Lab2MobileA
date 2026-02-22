@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="previous">Назад</string>
+    <string name="next">Вперед</string>
+
+
+    <string name="prev_desc">Перейти к предыдущему экспонату</string>
+    <string name="next_desc">Перейти к следующему экспонату</string>
+
+    <string name="artwork_image_desc">Изображение произведения искусства</string>
+
+    <string name="title1">Звездная ночь</string>
+    <string name="author1">Винсент ван Гог</string>
+    <string name="year1">1889 г.</string>
+
+    <string name="title2">Постоянство памяти</string>
+    <string name="author2">Сальвадор Дали</string>
+    <string name="year2">1931 г.</string>
+
+    <string name="title3">Полуночники</string>
+    <string name="author3">Эдвард Хоппер</string>
+    <string name="year3">1942 г.</string>
+</resources>
