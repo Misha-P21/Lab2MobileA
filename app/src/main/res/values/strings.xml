@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">la2</string>
+    <string name="app_name">Art Space</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="prev_desc">Navigate to the previous artwork</string>
+    <string name="next_desc">Navigate to the next artwork</string>
+    <string name="artwork_image_desc">Current artwork image</string>
+
+    <string name="title1">Starry Night</string>
+    <string name="author1">Vincent van Gogh</string>
+    <string name="year1">1889</string>
+
+    <string name="title2">The Persistence of Memory</string>
+    <string name="author2">Salvador Dali</string>
+    <string name="year2">1931</string>
+
+    <string name="title3">Nighthawks</string>
+    <string name="author3">Edward Hopper</string>
+    <string name="year3">1942</string>
 </resources>
